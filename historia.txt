@@ -2,4 +2,4 @@ Esta es una prueba de git
 Esta es el archivo modificado
 agregando el segundo commit
 
-Cambio de vida en el archivo
+Cambio de vida en el archivo y cambio de maestria
